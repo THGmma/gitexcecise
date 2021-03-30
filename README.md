@@ -1,7 +1,6 @@
-# chapter9 excecise
+# Todo list
+a simple app to manege your daily tasks.
+it uses html5 and css3
 
-A simple app to manage your daily tasks
-
-## Features
-
-* list of daily tasks hahaha
+## features
+list of daily tasks
