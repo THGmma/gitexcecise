@@ -8,3 +8,5 @@ list of daily tasks
 kslfkl
 
 ddd
+
+License:MIT.
